@@ -1692,6 +1692,10 @@ footer{
 #types.choosed .type-card p{
     font-size: 14px;
 }
+.buttons.projects{
+    gap: 10px;
+    justify-content:unset;
+}
 #partial-type{
     margin: 2rem 0;
 }
