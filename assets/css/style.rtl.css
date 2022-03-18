@@ -1407,7 +1407,7 @@ border-color: transparent;
         max-width: 875px;
     }
     .sign-in-modal .modal-content{
-        background-image: url("../img/bg-login.svg");
+        background-image: url("../img/bg-login-rtl.svg");
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
